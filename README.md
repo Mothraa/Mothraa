@@ -28,7 +28,7 @@ Take a look at my work, and don't hesitate to reach out!
 
 ## 🎖️ Certifications
 
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python Logo" height="30" style="vertical-align: middle;"/> **Application Developer - Python RNCP level 6** (OpenClassrooms)
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python Logo" height="20" style="vertical-align: middle;"/> **Application Developer - Python RNCP level 6** (OpenClassrooms)
 
 ---
 
@@ -47,9 +47,7 @@ Take a look at my work, and don't hesitate to reach out!
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mothraa&layout=compact&hide=css&theme=dark#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mothraa&layout=compact&hide=css&theme=light#gh-light-mode-only)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mothraa&layout=compact&hide=css&theme=transparent)
 
 ---
 
